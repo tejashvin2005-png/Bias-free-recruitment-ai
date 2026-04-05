@@ -39,3 +39,20 @@ Multilingual support
 Cloud deployment (Azure/AWS/GCP)
 
 Integration with Applicant Tracking Systems (ATS)
+## Screenshots
+
+### Dashboard
+![Dashboard Screenshot](Screenshot%202026-04-05%20112256.png)
+
+### Suggestions Tab
+![Suggestions Screenshot](Screenshot%202026-04-05%20112347.png)
+
+### Analytics Tab
+![Analytics Screenshot](Screenshot%202026-04-05%20112432.png)
+
+### Transformer Output
+![Transformer Screenshot](Screenshot%202026-04-05%20112502.png)
+git add README.md screenshots/
+git commit -m "Added screenshots to README"
+git push
+
