@@ -22,3 +22,20 @@ Clone the repository and install dependencies:
 git clone https://github.com/<your-username>/bias-free-recruitment-ai.git
 cd bias-free-recruitment-ai
 pip install -r requirements.txt
+Usage
+Run the Streamlit app:
+
+bash
+streamlit run app.py
+Paste a job description into the dashboard to analyze bias, view suggestions, and explore analytics.
+
+Business Impact
+This project helps recruiters reduce unconscious bias in hiring, supports diversity and inclusion initiatives, and improves candidate experience by ensuring fair and neutral job postings.
+Future Scope
+Resume bias detection
+
+Multilingual support
+
+Cloud deployment (Azure/AWS/GCP)
+
+Integration with Applicant Tracking Systems (ATS)
